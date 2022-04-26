@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeahMorton
+👋 Hi, I’m @LeahMorton
 👀 I’m interested in Data Science, Data Analysis, AI & Machine Learning
 🌱 I’m skilled in Excel, Tableau, SQL, Snowflake and currently learning Power BI and also Python for Data Science & Machine Learning
 💞️ I’m looking to collaborate on AI, Machine Learning, Data Science & Data Analysis projects
